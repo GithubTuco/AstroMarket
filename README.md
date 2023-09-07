@@ -17,14 +17,13 @@ Da dieses Projekt derzeit keine aktive Anwendung oder Backend hat, erfordert die
    ```bash
    git clone https://github.com/GithubTuco/AstroMarket.git
 
-2. Wechseln Sie in das Projektverzeichnis:
-   cd Astromarket
+2. Wechseln Sie in das Projektverzeichnis: "cd Astromarket"
 
 
-3. Öffnen Sie die HTML-Dateien:
-Sie können die HTML-Dateien im Browser öffnen, um das Design und die Benutzeroberfläche des Projekts anzusehen.
+3. Öffnen Sie die HTML-Dateien: Sie können die HTML-Dateien im Browser öffnen, um das Design und die Benutzeroberfläche des Projekts anzusehen.
 
 Geplante Entwicklungen:
+
 - Backend und Datenbankintegration: Wir planen, ein Backend und eine Datenbank in das Projekt zu integrieren, um die vollständige Funktionalität der Plattform bereitzustellen.
 
 - Erweiterung der Produktliste: Wir werden die Liste der spirituellen Produkte und Dienstleistungen erweitern, um eine breitere Auswahl anzubieten.
