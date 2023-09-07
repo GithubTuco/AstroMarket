@@ -22,15 +22,13 @@ Da dieses Projekt derzeit keine aktive Anwendung oder Backend hat, erfordert die
 
 
 3. Öffnen Sie die HTML-Dateien:
-
 Sie können die HTML-Dateien im Browser öffnen, um das Design und die Benutzeroberfläche des Projekts anzusehen.
 
-Geplante Entwicklungen
-Backend und Datenbankintegration: Wir planen, ein Backend und eine Datenbank in das Projekt zu integrieren, um die vollständige Funktionalität der Plattform bereitzustellen.
+Geplante Entwicklungen:
+- Backend und Datenbankintegration: Wir planen, ein Backend und eine Datenbank in das Projekt zu integrieren, um die vollständige Funktionalität der Plattform bereitzustellen.
 
-Erweiterung der Produktliste: Wir werden die Liste der spirituellen Produkte und Dienstleistungen erweitern, um eine breitere Auswahl anzubieten.
+- Erweiterung der Produktliste: Wir werden die Liste der spirituellen Produkte und Dienstleistungen erweitern, um eine breitere Auswahl anzubieten.
 
-Nutzerkonto- und Bestellsystem: Wir werden ein Benutzerkontosystem und ein Bestellsystem implementieren, um die Interaktion zwischen Kunden und Anbietern zu ermöglichen.
+- Nutzerkonto- und Bestellsystem: Wir werden ein Benutzerkontosystem und ein Bestellsystem implementieren, um die Interaktion zwischen Kunden und Anbietern zu ermöglichen.
 
-Beitrag
-Wir begrüßen Beiträge zur Entwicklung dieses Projekts. Wenn Sie dazu beitragen möchten, können Sie Pull Requests erstellen oder Fehlerberichte einreichen. Bitte beachten Sie unsere Beitragshinweise für weitere Informationen.
+Wir arbeiten hart daran, AstroMarket zu einer umfassenden Plattform für spirituelle Produkte und Dienstleistungen zu machen. Vielen Dank für Ihr Interesse und Ihre Unterstützung!
