@@ -16,12 +16,12 @@ Da dieses Projekt derzeit keine aktive Anwendung oder Backend hat, erfordert die
 
    ```bash
    git clone https://github.com/GithubTuco/AstroMarket.git
-Wechseln Sie in das Projektverzeichnis:
 
-bash
-Copy code
-cd Astromarket
-Öffnen Sie die HTML-Dateien:
+2. Wechseln Sie in das Projektverzeichnis:
+   cd Astromarket
+
+
+3. Öffnen Sie die HTML-Dateien:
 
 Sie können die HTML-Dateien im Browser öffnen, um das Design und die Benutzeroberfläche des Projekts anzusehen.
 
